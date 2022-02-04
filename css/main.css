@@ -20,7 +20,7 @@ main {
     justify-content: space-evenly;
     align-items: center;
     height: 1000px;
-    background-color: #f4f4f4;
+    background-color: F4F4F4;
 }
 
 .container {
@@ -54,9 +54,9 @@ main {
     align-items: flex-start;
     border-radius: 10px;
     border: 1px solid rgb(228, 228, 228);
-    border-left: 5px solid #0fae5f;
+    border-left: 5px solid blue;
     box-shadow: rgba(93, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
-    background-color: #fff;
+    background-color: #6E6E8B;
     flex-direction: column;
 }
 .col-2{
@@ -65,7 +65,7 @@ main {
     display: flex;
     border-radius: 10px;
     border: 1px solid rgb(228, 228, 228);
-    border-left: 5px solid #0fae5f;
+    border-left: 5px solid blue;
     box-shadow: rgba(93, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     background-color: #fff;
     flex-direction: column;
@@ -167,7 +167,7 @@ iframe{
     align-items: flex-start;
     border-radius: 10px;
     border: 1px solid rgb(228, 228, 228);
-    border-left: 5px solid #0fae5f;
+    border-left: 5px solid blue;
     box-shadow: rgba(93, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     background-color: #fff;
     flex-direction: column;
@@ -177,13 +177,22 @@ iframe{
 
 table, tr, th{
 border: black solid 2px;
+}
+
+.tableuitleg{
+justify-content: space-evenly;
+
+
+}
+.afbeelding1{
 
 
 
 
 }
-
-td{
+.logo{
+top: 0;
+left: 0;
 
 
 }
